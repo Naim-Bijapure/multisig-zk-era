@@ -6,10 +6,10 @@ let transactions: any = {};
 const IS_LOCAL_TX_STORAGE = false; // set true if you want to use local tx storage
 const TX_COLLECTION_NAME = "transactions";
 
-console.log(`n-🔴 => process.env.UPSTASH_URL:`, process.env.UPSTASH_URL);
+console.log(`n-🔴 => process.env.UPSTASH_URL:`, process.env.UPSTASH_REDIS_REST_URL);
 const redis = new Redis({
-  url: process.env.UPSTASH_URL as string,
-  token: process.env.UPSTASH_TOKEN as string,
+  url: process.env.UPSTASH_REDIS_REST_URL as string,
+  token: process.env.UPSTASH_REDIS_REST_TOKEN as string,
 });
 
 export default async function handler(request: Request | any, response: Response | any) {

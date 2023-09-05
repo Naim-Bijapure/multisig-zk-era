@@ -738,8 +738,6 @@ const Home = ({
 
   const isSharedChainMatch = chain && chain.id === +chainId;
   const targetedNetworkData = chains.filter(item => item.id === 280)[0];
-  console.log(`n-🔴 => chains:`, chains);
-  console.log(`n-🔴 => targetedNetworkData:`, targetedNetworkData);
 
   // pool tx's bg colors
   const getPoolTxBackgroundColor = (item: any) => {
