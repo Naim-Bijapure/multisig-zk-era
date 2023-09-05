@@ -737,7 +737,9 @@ const Home = ({
   const isWalletOwner = address && !walletOwners.includes(address) ? true : false;
 
   const isSharedChainMatch = chain && chain.id === +chainId;
-  const targetedNetworkData = chains.filter(item => item.id === +chainId)[0];
+  const targetedNetworkData = chains.filter(item => item.id === 280)[0];
+  console.log(`n-🔴 => chains:`, chains);
+  console.log(`n-🔴 => targetedNetworkData:`, targetedNetworkData);
 
   // pool tx's bg colors
   const getPoolTxBackgroundColor = (item: any) => {
@@ -775,7 +777,9 @@ const Home = ({
         data={currentTxData}
       />
 
-      {isSharedWallet && isSharedChainMatch === false && (
+      {/* {isSharedWallet && isSharedChainMatch === false && ( */}
+      {/* only zksync testnet check */}
+      {chain?.id !== 280 && isConnected === true && (
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2  z-50 flex items-center">
           <div>
             You need to be on
@@ -787,7 +791,7 @@ const Home = ({
           <button
             className="btn btn-xs btn-error ml-2"
             onClick={() => {
-              switchNetwork?.(+chainId);
+              switchNetwork?.(+targetedNetworkData.id);
             }}
           >
             switch
