@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/contracts/MultiSigFactory.sol": {
-      "lastModificationDate": 1690355393667,
+      "lastModificationDate": 1692155536538,
       "contentHash": "e3ec9a5449f697e17ba7fe2195b859c1",
       "sourceName": "contracts/MultiSigFactory.sol",
       "solcConfig": {
@@ -29,14 +29,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -55,7 +55,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/contracts/MultiSigWallet.sol": {
-      "lastModificationDate": 1690355010531,
+      "lastModificationDate": 1692155536538,
       "contentHash": "5f7a686fe1af44140e67553325be74bb",
       "sourceName": "contracts/MultiSigWallet.sol",
       "solcConfig": {
@@ -82,14 +82,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -111,7 +111,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/hardhat/console.sol": {
-      "lastModificationDate": 1690039179127,
+      "lastModificationDate": 1693725649658,
       "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
@@ -138,14 +138,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -159,7 +159,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@openzeppelin/contracts/utils/Create2.sol": {
-      "lastModificationDate": 1690039381810,
+      "lastModificationDate": 1693725648850,
       "contentHash": "752ff0901adbdac182deace414d9e75f",
       "sourceName": "@openzeppelin/contracts/utils/Create2.sol",
       "solcConfig": {
@@ -186,14 +186,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -207,7 +207,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@openzeppelin/contracts/utils/cryptography/ECDSA.sol": {
-      "lastModificationDate": 1690039381811,
+      "lastModificationDate": 1693725648851,
       "contentHash": "d822a8a9468649cab463f29f5decf5cc",
       "sourceName": "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
       "solcConfig": {
@@ -234,14 +234,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -257,7 +257,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
-      "lastModificationDate": 1690039381769,
+      "lastModificationDate": 1693725648830,
       "contentHash": "df36f7051335cd1e748b1b6463b7fdd3",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
@@ -284,14 +284,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -305,7 +305,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/Constants.sol": {
-      "lastModificationDate": 1690039381852,
+      "lastModificationDate": 1693725649106,
       "contentHash": "cc9dd864bd75ae5ab231fbfae7692cd9",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/Constants.sol",
       "solcConfig": {
@@ -332,14 +332,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -362,7 +362,7 @@
       "artifacts": []
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IPaymasterFlow.sol": {
-      "lastModificationDate": 1690039381866,
+      "lastModificationDate": 1693725649118,
       "contentHash": "875b182d35066260db165e6350aef799",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IPaymasterFlow.sol",
       "solcConfig": {
@@ -389,14 +389,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -410,7 +410,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IPaymaster.sol": {
-      "lastModificationDate": 1690039381865,
+      "lastModificationDate": 1693725649117,
       "contentHash": "5b6a8d8bf0320ecd1bdc362c4d312eaf",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IPaymaster.sol",
       "solcConfig": {
@@ -437,14 +437,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -460,7 +460,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/libraries/TransactionHelper.sol": {
-      "lastModificationDate": 1690039381870,
+      "lastModificationDate": 1693725649121,
       "contentHash": "d3d97ce1ffa048c9ffebcd845a9944a1",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/libraries/TransactionHelper.sol",
       "solcConfig": {
@@ -487,14 +487,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -516,7 +516,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1690039381823,
+      "lastModificationDate": 1693725648866,
       "contentHash": "48686fc32a22a3754b8e63321857dd2a",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
@@ -543,14 +543,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -567,7 +567,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@openzeppelin/contracts/utils/math/Math.sol": {
-      "lastModificationDate": 1690039381818,
+      "lastModificationDate": 1693725648857,
       "contentHash": "fe63409d8a06818b926cf89e0ea88b1b",
       "sourceName": "@openzeppelin/contracts/utils/math/Math.sol",
       "solcConfig": {
@@ -594,14 +594,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -615,7 +615,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@openzeppelin/contracts/utils/math/SignedMath.sol": {
-      "lastModificationDate": 1690039381820,
+      "lastModificationDate": 1693725648863,
       "contentHash": "9488ebd4daacfee8ad04811600d7d061",
       "sourceName": "@openzeppelin/contracts/utils/math/SignedMath.sol",
       "solcConfig": {
@@ -642,14 +642,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -663,7 +663,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/BootloaderUtilities.sol": {
-      "lastModificationDate": 1690039381851,
+      "lastModificationDate": 1693725649105,
       "contentHash": "cf36b27c696f67d72e2eb3219d66ccd1",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/BootloaderUtilities.sol",
       "solcConfig": {
@@ -690,14 +690,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -716,7 +716,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IAccountCodeStorage.sol": {
-      "lastModificationDate": 1690039381859,
+      "lastModificationDate": 1693725649113,
       "contentHash": "05ac1dd6d28b32f9aec9c9835dd7f611",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IAccountCodeStorage.sol",
       "solcConfig": {
@@ -743,14 +743,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -764,7 +764,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/INonceHolder.sol": {
-      "lastModificationDate": 1690039381864,
+      "lastModificationDate": 1693725649117,
       "contentHash": "635d8b1fb161434ece83d75563c90d31",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/INonceHolder.sol",
       "solcConfig": {
@@ -791,14 +791,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -812,7 +812,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IContractDeployer.sol": {
-      "lastModificationDate": 1690039381860,
+      "lastModificationDate": 1693725649114,
       "contentHash": "04ab6e26fdc17a98e454a2d40b66cef5",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IContractDeployer.sol",
       "solcConfig": {
@@ -839,14 +839,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -860,7 +860,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IKnownCodesStorage.sol": {
-      "lastModificationDate": 1690039381862,
+      "lastModificationDate": 1693725649115,
       "contentHash": "8b44dba198e4579807dcf9972cedc472",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IKnownCodesStorage.sol",
       "solcConfig": {
@@ -887,14 +887,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -908,7 +908,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IImmutableSimulator.sol": {
-      "lastModificationDate": 1690039381861,
+      "lastModificationDate": 1693725649115,
       "contentHash": "a67696f328544ef71d1bb0b677b0c383",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IImmutableSimulator.sol",
       "solcConfig": {
@@ -935,14 +935,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -956,7 +956,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IEthToken.sol": {
-      "lastModificationDate": 1690039381861,
+      "lastModificationDate": 1693725649115,
       "contentHash": "51f28834f26a5d384b23a02d670123b2",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IEthToken.sol",
       "solcConfig": {
@@ -983,14 +983,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1004,7 +1004,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IL1Messenger.sol": {
-      "lastModificationDate": 1690039381862,
+      "lastModificationDate": 1693725649116,
       "contentHash": "b31020815f13cfc6043efc3df1f1d06f",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IL1Messenger.sol",
       "solcConfig": {
@@ -1031,14 +1031,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1052,7 +1052,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/ISystemContext.sol": {
-      "lastModificationDate": 1690039381866,
+      "lastModificationDate": 1693725649118,
       "contentHash": "499113f82b84e5ea8b54667f54432b4a",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/ISystemContext.sol",
       "solcConfig": {
@@ -1079,14 +1079,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1100,7 +1100,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IBytecodeCompressor.sol": {
-      "lastModificationDate": 1690039381860,
+      "lastModificationDate": 1693725649114,
       "contentHash": "979ef36bc70c3548c81b3c03df07c73a",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IBytecodeCompressor.sol",
       "solcConfig": {
@@ -1127,14 +1127,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1148,7 +1148,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IBootloaderUtilities.sol": {
-      "lastModificationDate": 1690039381859,
+      "lastModificationDate": 1693725649113,
       "contentHash": "071dbd56f1fcce9fdbcbc21872002d4a",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IBootloaderUtilities.sol",
       "solcConfig": {
@@ -1175,14 +1175,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1198,7 +1198,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/libraries/RLPEncoder.sol": {
-      "lastModificationDate": 1690039381868,
+      "lastModificationDate": 1693725649119,
       "contentHash": "57ce78bc816a06b695f053ca3b3e5a5b",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/libraries/RLPEncoder.sol",
       "solcConfig": {
@@ -1225,14 +1225,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1246,7 +1246,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/libraries/EfficientCall.sol": {
-      "lastModificationDate": 1690039381867,
+      "lastModificationDate": 1693725649119,
       "contentHash": "57bf5cbfd3226e021863b79cceb0c8ec",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/libraries/EfficientCall.sol",
       "solcConfig": {
@@ -1273,14 +1273,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1298,7 +1298,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/token/ERC20/IERC20.sol": {
-      "lastModificationDate": 1690039381872,
+      "lastModificationDate": 1693725649123,
       "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/token/ERC20/IERC20.sol",
       "solcConfig": {
@@ -1325,14 +1325,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1346,7 +1346,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/token/ERC20/utils/SafeERC20.sol": {
-      "lastModificationDate": 1690039381873,
+      "lastModificationDate": 1693725649124,
       "contentHash": "8ad35cad9b6ff0ffc1dd550ad873b005",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/token/ERC20/utils/SafeERC20.sol",
       "solcConfig": {
@@ -1373,14 +1373,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1398,7 +1398,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/libraries/SystemContractHelper.sol": {
-      "lastModificationDate": 1690039381868,
+      "lastModificationDate": 1693725649120,
       "contentHash": "d44c4d1e5757a576ca9eeee0e6294f39",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/libraries/SystemContractHelper.sol",
       "solcConfig": {
@@ -1425,14 +1425,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1451,7 +1451,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/libraries/Utils.sol": {
-      "lastModificationDate": 1690039381871,
+      "lastModificationDate": 1693725649122,
       "contentHash": "728dbbafd196a789d9c27fd56e75978f",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/libraries/Utils.sol",
       "solcConfig": {
@@ -1478,14 +1478,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1501,7 +1501,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/libraries/SystemContractsCaller.sol": {
-      "lastModificationDate": 1690039381869,
+      "lastModificationDate": 1693725649120,
       "contentHash": "452f2673fe40e625be94629084ed91cd",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/libraries/SystemContractsCaller.sol",
       "solcConfig": {
@@ -1528,14 +1528,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1552,7 +1552,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/utils/Address.sol": {
-      "lastModificationDate": 1690039381874,
+      "lastModificationDate": 1693725649124,
       "contentHash": "4dd40735feabb268b5dab77af993e691",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/utils/Address.sol",
       "solcConfig": {
@@ -1579,14 +1579,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }
@@ -1600,7 +1600,7 @@
       ]
     },
     "/usr/src/app/Web3/multisig-zksync/packages/hardhat/node_modules/@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/token/ERC20/extensions/IERC20Permit.sol": {
-      "lastModificationDate": 1690039381873,
+      "lastModificationDate": 1693725649123,
       "contentHash": "e2c0f4f502e2fe75be0585737839ba9b",
       "sourceName": "@matterlabs/zksync-contracts/l2/system-contracts/openzeppelin/token/ERC20/extensions/IERC20Permit.sol",
       "solcConfig": {
@@ -1627,14 +1627,14 @@
           }
         },
         "zksolc": {
-          "version": "1.3.13",
+          "version": "1.3.14",
           "compilerSource": "binary",
           "settings": {
             "optimizer": {
               "enabled": true,
               "mode": "3"
             },
-            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.13",
+            "compilerPath": "/root/.cache/hardhat-nodejs/compilers/zksolc/zksolc-v1.3.14",
             "experimental": {}
           }
         }

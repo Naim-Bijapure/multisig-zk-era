@@ -72,12 +72,12 @@ const config: HardhatUserConfig = {
     },
     zkSyncTestnet: {
       // docker urls
-      // url: "http://host.docker.internal:3050",
-      // ethNetwork: "http://host.docker.internal:8545",
+      url: "http://host.docker.internal:3050",
+      ethNetwork: "http://host.docker.internal:8545",
 
       // zk testnet
-      url: "https://zksync2-testnet.zksync.dev",
-      ethNetwork: "goerli",
+      // url: "https://zksync2-testnet.zksync.dev",
+      // ethNetwork: "goerli",
 
       zksync: true,
 
